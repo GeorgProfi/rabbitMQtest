@@ -11,7 +11,7 @@ import { Global } from '@nestjs/common/decorators/modules/global.decorator';
         return {
           exchanges: [
             {
-              name: 'crypto',
+              name: 'aboba',
               type: 'direct',
             },
           ],
